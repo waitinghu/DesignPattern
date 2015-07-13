@@ -1,0 +1,13 @@
+package com.bingfeng.build;
+
+public abstract class StarBucksBuilder {
+	
+	StarBucks starBucks;
+	
+	void createStarBucks(){
+		starBucks = new StarBucks();
+	}
+	
+	
+
+}

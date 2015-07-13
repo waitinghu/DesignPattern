@@ -1,0 +1,9 @@
+package com.bingfeng.build;
+
+public class StarBucks {
+	
+	private String size;
+	private String drink;
+	
+
+}

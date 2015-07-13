@@ -1,0 +1,19 @@
+package com.bingfeng.abstructfactory;
+
+public class Test {
+
+	
+	/*
+	 * 抽象工厂模式相对于工厂模式区别在于创建的是一个产品族
+	 */
+	public static void main(String[] args) {
+		
+		try {
+			Class.forName("");
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+}

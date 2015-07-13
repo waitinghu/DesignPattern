@@ -1,0 +1,7 @@
+package com.bingfeng.build;
+
+public abstract class StarBucksBuilder {
+	
+	StarBucks drick;
+
+}

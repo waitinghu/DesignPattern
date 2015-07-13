@@ -1,0 +1,5 @@
+package com.bingfeng.factorymode;
+
+public interface List {
+
+}

@@ -1,0 +1,8 @@
+package com.bingfeng.factorymode;
+
+import com.bingfeng.List.MyList;
+
+public class MyArrayList implements MyList{
+	
+
+}

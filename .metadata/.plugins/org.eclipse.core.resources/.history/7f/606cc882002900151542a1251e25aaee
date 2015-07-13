@@ -1,0 +1,31 @@
+package com.bingfeng.factorymode;
+
+import com.bingfeng.List.MyList;
+
+public class MyArrayList implements MyList{
+
+	@Override
+	public void setValue(Object obj) {
+		
+	}
+
+	@Override
+	public void getValue(int index) {
+		
+	}
+	
+	public class MyIterator implements MyList.MyIterator {
+
+		@Override
+		public void next() {
+			
+		}
+
+		@Override
+		public boolean hasNest() {
+			return false;
+		}
+		
+	}
+
+}

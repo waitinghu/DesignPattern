@@ -1,0 +1,8 @@
+package com.bingfeng.oracleconnection;
+
+import com.bingfeng.connection.MyConnection;
+
+public class OracleConntion implements MyConnection{
+
+
+}

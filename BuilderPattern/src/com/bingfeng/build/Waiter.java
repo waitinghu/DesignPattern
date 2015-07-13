@@ -1,0 +1,21 @@
+package com.bingfeng.build;
+
+public class Waiter {
+	
+	private StarBucksBuilder builder;
+	
+	public void setBuilder(StarBucksBuilder builder) {
+		this.builder = builder;
+	}
+	
+	public StarBucks getDrink() {
+		return builder.getStarBucks();
+	}
+	
+	public void construckStarBucks(){
+		builder.createStarBucks();
+		builder.buildSize();
+		builder.buildDrink();
+	}
+
+}

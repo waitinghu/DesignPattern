@@ -1,0 +1,31 @@
+package com.bingfeng.MyArrayList;
+
+import com.bingfeng.List.MyList;
+
+public class MyArrayList implements MyList{
+
+	@Override
+	public void setValue(Object obj) {
+		
+	}
+
+	@Override
+	public Object getValue(int index) {
+		return null;
+	}
+	
+	public class MyIterator implements MyList.MyIterator {
+
+		@Override
+		public Object next() {
+			
+		}
+
+		@Override
+		public boolean hasNext() {
+			return false;
+		}
+		
+	}
+
+}

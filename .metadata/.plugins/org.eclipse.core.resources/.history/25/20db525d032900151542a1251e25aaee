@@ -1,0 +1,8 @@
+package com.bingfeng.oracleconnection;
+
+public class OracleConntion {
+
+	public static void main(String[] args) {
+	}
+
+}

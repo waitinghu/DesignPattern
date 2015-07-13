@@ -1,0 +1,17 @@
+package com.bingfeng.build;
+
+public class CoffeeBuilder extends StarBucksBuilder{
+
+	@Override
+	public void buildSize() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void buildDrink() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.bingfeng.factorymode;
+
+import com.bingfeng.List.MyList;
+import com.bingfeng.List.MyList.MyIterator;
+import com.bingfeng.MyArrayList.MyArrayList;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		MyList list = new MyArrayList();
+		MyIterator it  = list.Iterator();
+	}
+
+}

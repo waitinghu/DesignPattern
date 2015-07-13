@@ -1,0 +1,7 @@
+package com.bingfeng.build;
+
+public class Waiter {
+	
+	private StarBucksBuilder builder;
+
+}

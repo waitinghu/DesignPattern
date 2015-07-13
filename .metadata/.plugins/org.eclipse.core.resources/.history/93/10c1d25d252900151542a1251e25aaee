@@ -1,0 +1,15 @@
+package com.bingfeng.build;
+
+public class TeaBuilder extends StarBucksBuilder{
+
+	@Override
+	public void buildSize() {
+		
+	}
+
+	@Override
+	public void buildDrink() {
+		
+	}
+
+}

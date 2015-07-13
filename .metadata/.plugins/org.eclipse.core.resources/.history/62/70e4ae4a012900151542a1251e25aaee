@@ -1,0 +1,12 @@
+package com.bingfeng.factorymode;
+
+import com.bingfeng.List.MyList;
+import com.bingfeng.MyArrayList.MyArrayList;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		MyList list = new MyArrayList();
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.bingfeng.abstructfactory;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+	}
+}

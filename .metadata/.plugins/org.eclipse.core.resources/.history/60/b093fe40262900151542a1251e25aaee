@@ -1,0 +1,12 @@
+package com.bingfeng.build;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		Waiter waiter = new Waiter();
+		StarBucksBuilder builder = new TeaBuilder();
+		waiter.setBuilder(builder);
+		waiter.construckStarBucks();
+	}
+
+}

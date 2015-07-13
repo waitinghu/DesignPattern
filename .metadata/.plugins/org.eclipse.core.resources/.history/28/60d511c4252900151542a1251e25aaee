@@ -1,0 +1,12 @@
+package com.bingfeng.build;
+
+public class Waiter {
+	
+	private StarBucksBuilder builder;
+	
+	public void setBuilder(StarBucksBuilder builder) {
+		this.builder = builder;
+	}
+	
+
+}

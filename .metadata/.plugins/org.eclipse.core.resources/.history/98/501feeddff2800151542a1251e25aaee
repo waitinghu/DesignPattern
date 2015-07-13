@@ -1,0 +1,11 @@
+package com.bingfeng.List;
+
+public interface MyList {
+	
+	public interface MyIterator 
+	
+	
+	
+	
+
+}

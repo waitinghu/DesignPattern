@@ -1,0 +1,12 @@
+package com.bingfeng.List;
+
+public interface MyList {
+	
+	public interface MyIterator {
+		
+		void next();
+		boolean hasNest();
+	};
+	
+
+}
